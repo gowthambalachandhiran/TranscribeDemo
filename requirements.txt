@@ -1,0 +1,5 @@
+amazon_transcribe==0.6.2
+boto3==1.35.66
+sounddevice==0.4.6
+sounddevice==0.5.1
+streamlit==1.40.1
